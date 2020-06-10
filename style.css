@@ -1,0 +1,171 @@
+* {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: #212121;
+}
+
+li {
+  list-style-type: none;
+}
+
+h1 {
+  font-family: roboto;
+  font-weight: normal;
+  font-size: 44px;
+  line-height: 60px;
+  color: #757575;
+}
+
+h2 {
+  font-family: roboto;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+}
+
+h3 {
+  font-family: roboto;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+footer {
+  background-color: #2f303a;
+  color: #ffffff;
+}
+
+button {
+  font-family: roboto;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  color: #212121;
+  background-color: #f5f4fa;
+  border: none;
+  outline: none;
+}
+
+.address {
+  font-style: normal;
+  font-family: roboto;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.logo {
+  font-family: raleway;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+}
+
+.logo span {
+  color: #2196f3;
+}
+
+.mail {
+  color: #2196f3;
+}
+
+.tel {
+  color: #757575;
+}
+
+.header-list {
+  font-family: roboto;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.header-list:hover,
+:focus {
+  color: #2196f3;
+  /*text-decoration: underline;*/
+}
+
+.address li:hover,
+:focus {
+  color: #2196f3;
+  /* text-decoration: underline; */
+}
+
+.section {
+  font-family: roboto;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  color: #757575;
+}
+
+.focus {
+  font-family: roboto;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #ffffff;
+}
+
+.contacts-footer a {
+  color: #ffffff;
+  font-family: roboto;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.title {
+  font-family: roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.e-mail {
+  font-family: roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 30px;
+  background-color: #2196f3;
+  color: #ffffff;
+}
+
+.benefits {
+  font-family: roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  color: #757575;
+}
+
+.h1 {
+  font-family: roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.index {
+  font-family: roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+}
+
+.our-team {
+  font-family: roboto;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  color: #757575;
+}
